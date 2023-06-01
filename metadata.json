@@ -1,0 +1,10 @@
+{
+    "chainId": Mainnet,
+    "address": "EHwDDiY2qTCBVjQgKHmRJvuP58GupErUXG9Sshast2Yc",
+    "symbol": "BRICK",
+    "name": "Brick Coin",
+    "decimals": 1000000,
+    "logoURI": "https://raw.githubusercontent.com/coopermarino/BrickCoin/main/logo.jpg",
+    "supply": "0",
+    "description": ""
+}
